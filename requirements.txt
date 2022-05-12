@@ -1,0 +1,5 @@
+BeautifulSoup
+selenium
+itertools
+tqdm
+coloroma
